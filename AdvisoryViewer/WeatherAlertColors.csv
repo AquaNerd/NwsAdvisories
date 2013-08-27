@@ -1,0 +1,123 @@
+Event,ColorName,RGBCodes,RGBHex
+911 Telephone Outage ,Silver,192 192 192,C0C0C0
+Administrative Message ,White,255 255 255,FFFFFF
+Air Quality Alert ,Gray,128 128 128,808080
+Air Stagnation Advisory ,Gray,128 128 128,808080
+Arroyo and Small Stream Flood Advisory ,Springgreen,0 255 127,00FF7F
+Ashfall Advisory ,Dimgray,105 105 105,696969
+Ashfall Warning ,Darkgray,169 169 169,A9A9A9
+Avalanche Advisory ,Peru,205 133 63,CD853F
+Avalanche Warning ,Dodgerblue,30 144 255,1E90FF
+Avalanche Watch ,Sandybrown,244 164 96,F4A460
+Beach Hazards Statement ,turquoise,64 224 208,40E0D0
+Blizzard Warning ,Orangered,255 69 0,FF4500
+Blizzard Watch ,Greenyellow,173 255 47,ADFF2F
+Blowing Dust Advisory ,Darkkhaki,189 183 107,BDB76B
+Brisk Wind Advisory ,Thistle,216 191 216,D8BFD8
+Child Abduction Emergency ,Gold,255 215 0,FFD700
+Civil Danger Warning ,Lightpink,255 182 193,FFB6C1
+Civil Emergency Message ,Lightpink,255 182 193,FFB6C1
+Coastal Flood Advisory ,Lawngreen,124 252 0,7CFC00
+Coastal Flood Statement ,Olivedrab,107 142 35,6B8E23
+Coastal Flood Warning ,Forestgreen,34 139 34,228B22
+Coastal Flood Watch ,Mediumaquamarine,102 205 170,66CDAA
+Dense Fog Advisory ,Slategray,112 128 144,708090
+Dense Smoke Advisory ,Khaki,240 230 140,F0E68C
+Dust Storm Warning ,Bisque,255 228 196,FFE4C4
+Earthquake Warning ,Saddlebrown,139 69 19,8B4513
+Evacuation - Immediate ,Chartreuse,127 255 0,7FFF00
+Excessive Heat Warning ,Mediumvioletred,199 21 133,C71585
+Excessive Heat Watch ,Maroon,128 0 0,800000
+Extreme Cold Warning ,Blue,0 0 255,0000FF
+Extreme Cold Watch ,Blue,0 0 255,0000FF
+Extreme Fire Danger ,Darksalmon,233 150 122,E9967A
+Extreme Wind Warning ,Darkorange,255 140 0,FF8C00
+Fire Warning ,Sienna,160 82 45,A0522D
+Fire Weather Watch ,navajowhite,255 222 173,FFDEAD
+Flash Flood Statement ,Darkred,139 0 0,8B0000
+Flash Flood Warning ,Darkred,139 0 0,8B0000
+Flash Flood Watch ,Seagreen,46 139 87,2E8B57
+Flood Advisory ,Springgreen,0 255 127,00FF7F
+Flood Statement ,Lime,0 255 0,00FF00
+Flood Warning ,Lime,0 255 0,00FF00
+Flood Watch ,Seagreen,46 139 87,2E8B57
+Freeze Warning ,Cyan,0 255 255,00FFFF
+Freeze Watch ,Royalblue,65 105 225,4.17E+04
+Freezing Fog Advisory ,Teal,0 128 128,8080
+Freezing Rain Advisory ,Orchid,218 112 214,DA70D6
+Freezing Spray Advisory ,deepskyblue,0 191 255,00BFFF
+Frost Advisory ,Cornflowerblue,100 149 237,6495ED
+Gale Warning ,Plum,221 160 221,DDA0DD
+Gale Watch ,Pink,255 192 203,FFC0CB
+Hard Freeze Warning ,Blue,0 0 255,0000FF
+Hazardous Materials Warning ,Indigo,75 0 130,4B0082
+Hazardous Seas Warning ,Thistle,216 191 216,D8BFD8
+Hazardous Seas Watch ,Darkslateblue,72 61 139,483D8B
+Hazardous Weather Outlook ,Palegoldenrod,238 232 170,EEE8AA
+Heat Advisory ,Coral,255 127 80,FF7F50
+Heavy Freezing Spray Warning ,Deepskyblue,0 191 255,00BFFF
+Heavy Freezing Spray Watch ,Rosybrown,188 143 143,BC8F8F
+High Surf Advisory ,Mediumorchid,186 85 211,BA55D3
+High Surf Warning ,Forestgreen,34 139 34,228B22
+High Wind Warning ,Goldenrod,218 165 32,DAA520
+High Wind Watch ,Darkgoldenrod,184 134 11,B8860B
+Hurricane Force Wind Warning ,Westernred,205 92 92,CD5C5C
+Hurricane Force Wind Watch ,Darkorchid,153 50 204,9932CC
+Hurricane Local Statement ,Moccasin,255 228 181,FFE4B5
+Hurricane Warning ,Crimson,220 20 60,DC143C
+Hurricane Watch ,Magenta,255 0 255,FF00FF
+Hydrologic Advisory ,Springgreen,0 255 127,00FF7F
+Hydrologic Outlook ,lightgreen,144 238 144,90EE90
+Ice Storm Warning ,Darkmagenta,139 0 139,8B008B
+Lake Effect Snow Advisory ,Mediumturquoise,72 209 204,48D1CC
+Lake Effect Snow Warning ,Darkcyan,0 139 139,008B8B
+Lake Effect Snow Watch ,Lightskyblue,135 206 250,87CEFA
+Lake Wind Advisory ,Tan,210 180 140,D2B48C
+Lakeshore Flood Advisory ,Lawngreen,124 252 0,7CFC00
+Lakeshore Flood Statement ,Olivedrab,107 142 35,6B8E23
+Lakeshore Flood Warning ,Forestgreen,34 139 34,228B22
+Lakeshore Flood Watch ,Mediumaquamarine,102 205 170,66CDAA
+Law Enforcement Warning ,Silver,192 192 192,C0C0C0
+Local Area Emergency ,Silver,192 192 192,C0C0C0
+Low Water Advisory ,Brown,165 42 42,A52A2A
+Marine Weather Statement ,Peachpuff,255 239 213,FFDAB9
+Nuclear Power Plant Warning ,Indigo,75 0 130,4B0082
+Radiological Hazard Warning ,Indigo,75 0 130,4B0082
+Red Flag Warning ,Deeppink,255 20 147,FF1493
+Rip Current Statement ,turquoise,64 224 208,40E0D0
+Severe Thunderstorm Warning ,Orange,255 165 0,FFA500
+Severe Thunderstorm Watch ,Palevioletred,219 112 147,DB7093
+Severe Weather Statement ,Aqua,0 255 255,00FFFF
+Shelter In Place Warning ,Salmon,250 128 114,FA8072
+Short Term Forecast ,Palegreen,152 251 152,98FB98
+Small Craft Advisory ,Thistle,216 191 216,D8BFD8
+Small Craft Advisory For Hazardous Seas ,Thistle,216 191 216,D8BFD8
+Small Craft Advisory For Rough Bar ,Thistle,216 191 216,D8BFD8
+Small Craft Advisory For Winds ,Thistle,216 191 216,D8BFD8
+Small Stream Flood Advisory ,Springgreen,0 255 127,00FF7F
+Special Marine Warning ,Orange,255 165 0,FFA500
+Special Weather Statement ,Moccasin,255 228 181,FFE4B5
+Storm Warning ,Darkviolet,148 0 211,9400D3
+Storm Watch ,Moccasin,255 228 181,FFE4B5
+Test ,Azure,240 255 255,F0FFFF
+Tornado Warning ,Red,255 0 0,FF0000
+Tornado Watch ,Yellow,255 255 0,FFFF00
+Tropical Depression Local Statement ,Moccasin,255 228 181,FFE4B5
+Tropical Storm Local Statement ,Moccasin,255 228 181,FFE4B5
+Tropical Storm Warning ,Firebrick,178 34 34,B22222
+Tropical Storm Watch ,Lightcoral,240 128 128,F08080
+Tsunami Advisory ,Chocolate,210 105 30,D2691E
+Tsunami Warning ,Tomato,253 99 71,FD6347
+Tsunami Watch ,Fushsia,255 0 255,FF00FF
+Typhoon Local Statement ,Moccasin,255 228 181,FFE4B5
+Typhoon Warning ,Crimson,220 20 60,DC143C
+Typhoon Watch ,Magenta,255 0 255,FF00FF
+Urban and Small Stream Flood Advisory ,Springgreen,0 255 127,00FF7F
+Volcano Warning ,darkslategray,47 79 79,2F4F4F
+Wind Advisory ,Tan,210 180 140,D2B48C
+Wind Chill Advisory ,Paleturquoise,175 238 238,AFEEEE
+Wind Chill Warning ,Lightsteelblue,176 196 222,B0C4DE
+Wind Chill Watch ,Cadetblue,95 158 160,5F9EA0
+Winter Storm Warning ,Hotpink,255 105 180,FF69B4
+Winter Storm Watch ,Steelblue,70 130 180,4682B4
+Winter Weather Advisory ,Mediumslateblue,123 104 238,7B68EE
